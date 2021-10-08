@@ -101,6 +101,6 @@
 
 ## Credits
 
-- All snippets are licensed under the CC0-1.0 License, unless explicitly stated otherwise.
+- licensed under the CC0-1.0 License, unless explicitly stated otherwise.
 - Logos, names and trademarks are not to be used without the explicit consent of the owners.
 - Our website is powered by [Netlify](https://www.netlify.com/), [Next.js](https://nextjs.org/) & [GitHub](https://github.com/).
