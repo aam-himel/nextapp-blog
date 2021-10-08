@@ -98,6 +98,7 @@
 # Next.js blog project (ongoing...)
 
 > The best way to learning is to create somethin exceptional!
+> Some thing new
 
 ## Credits
 
