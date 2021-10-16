@@ -1,16 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-bg: #09091b;
+  --text-color: #ddd;
+
+  --clr-txt-200: #fffffff2;
+  --clr-txt-150: #ffffffde;
+  --clr-txt-100: #ffffffc2;
+  --clr-txt-050: #ffffffa3;
+
+  --font-no: 0;
+  --font-mi: 0.75rem;
+  --font-xs: 0.875rem;
+  --font-sm: 1rem;
+  --font-md: 1.125rem;
+  --font-lg: 1.25rem;
+  --font-xl: 1.5rem;
+  --font-x2: 2rem;
+  --font-x3: 2.5rem;
+
+  --link-normal: #d7def9;
+  --link-hover: #bcc8f8;
+  --link-primary: #94b9f4;
+}
+
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.8;
+  background-color: var(--clr-bg);
+  color: var(--clr-txt-200);
 }
 
 a {
-  color: inherit;
   text-decoration: none;
+  color: var(--link-primary);
 }
 
-* {
-  box-sizing: border-box;
+a:hover {
+  text-decoration: underline;
+  color: var(--link-hover);
+}
+
+a,
+b,
+em,
+i,
+q,
+span,
+strong,
+u {
+  transition: all 0.3s ease;
+  font-size: 1em;
+}
+
+p {
+  margin: 10px 0;
 }
