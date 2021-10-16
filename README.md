@@ -1,4 +1,4 @@
-:root {
+<!-- :root {
 --br-none: 0;
 --br-sm: 0.125rem;
 --br-md: 0.25rem;
@@ -91,4 +91,23 @@
 --clr-el-05dp: #ffffff24;
 --clr-el-05db: #2b2b3b;
 --shd-el-05dp: 0 20px 40px #0003;
-}
+} -->
+
+[![Logo](/logo.png)](https://30secondsofcode.org/js/p/1)
+
+# Next.js blog project (ongoing...)
+
+> Short JavaScript code snippets for all your development needs
+
+- Visit [our website](https://30secondsofcode.org) to view our snippet collection.
+- Use the [Search page](https://30secondsofcode.org/search) to find snippets that suit your needs. You can search by name, tag, language or using a snippet's description. Just start typing a term and see what comes up.
+- Browse the [JavaScript Snippet collection](https://30secondsofcode.org/js/p/1) to see all the snippets in this project or click individual tags at the top of the same page to narrow down your search to a specific tag.
+- Click on each snippet card to view the whole snippet, including code, explanation and examples.
+- You can use the button at the bottom of a snippet card to copy the code to clipboard.
+- If you like the project, give it a star. It means a lot to the people maintaining it.
+
+## Credits
+
+- All snippets are licensed under the CC0-1.0 License, unless explicitly stated otherwise.
+- Logos, names and trademarks are not to be used without the explicit consent of the owners.
+- Our website is powered by [Netlify](https://www.netlify.com/), [Next.js](https://nextjs.org/) & [GitHub](https://github.com/).
