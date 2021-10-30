@@ -1,9 +1,9 @@
 import Layout from '@components/Layout';
 
-export default function contact() {
+export default function blog() {
   return (
     <Layout>
-      <h1>This is Contact page</h1>
+      <h1>Blogging is the best method!</h1>
     </Layout>
   );
 }

@@ -3,7 +3,8 @@
     "baseUrl": "./",
     "paths": {
       "@components/*": ["components/*"],
-      "@syles/*": ["styles/*"]
+      "@syles/*": ["styles/*"],
+      "@images/*": ["public/images/*"]
     }
   }
 }

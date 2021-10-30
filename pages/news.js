@@ -1,9 +1,9 @@
 import Layout from '@components/Layout';
 
-export default function contact() {
+export default function news() {
   return (
     <Layout>
-      <h1>This is Contact page</h1>
+      <h1>Hello, News today!</h1>
     </Layout>
   );
 }

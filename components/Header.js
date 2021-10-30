@@ -11,8 +11,8 @@ export default function Header() {
         </Link>
       </div>
       <nav>
-        {navitems.map((item) => (
-          <Link href={item.url}>
+        {navitems.map((item, index) => (
+          <Link href={item.url} key={index}>
             <a className={`${styles.linkItem}`}>{item.text}</a>
           </Link>
         ))}
